@@ -186,48 +186,104 @@
 
 /* Image Background */
 .bg-geo-1 {
-	background-image: url('../img/bg-geo-1.png');
+	background-image: url('../img/geo-1.png');
 	background-size: 100%;
-	background-repeat: repeat-y;}
+	background-repeat: no-repeat;}
 .bg-geo-2 {
-	background-image: url('../img/bg-geo-2.png');
+	background-image: url('../img/geo-2.png');
 	background-size: 100%;
-	background-repeat: repeat-y;}
-.bg-geo-2 {
-	background-image: url('../img/bg-geo-3.png');
-	background-size: 100%;
-	background-repeat: repeat-y;}
+	background-repeat: no-repeat;}
 .bg-geo-3 {
-	background-image: url('../img/bg-geo-4.png');
+	background-image: url('../img/geo-3.png');
 	background-size: 100%;
 	background-repeat: no-repeat;}
 .bg-geo-4 {
-	background-image: url('../img/bg-geo-5.png');
+	background-image: url('../img/geo-4.png');
 	background-size: 100%;
 	background-repeat: no-repeat;}
 .bg-geo-5 {
-	background-image: url('../img/bg-geo-6.png');
+	background-image: url('../img/geo-5.png');
 	background-size: 100%;
 	background-repeat: no-repeat;}
 .bg-geo-6 {
-	background-image: url('../img/bg-geo-7.png');
+	background-image: url('../img/geo-6.png');
 	background-size: 100%;
 	background-repeat: no-repeat;}
 .bg-geo-7 {
-	background-image: url('../img/bg-geo-8.png');
+	background-image: url('../img/geo-7.png');
 	background-size: 100%;
 	background-repeat: no-repeat;}
 .bg-geo-8 {
-	background-image: url('../img/bg-geo-9.png');
+	background-image: url('../img/geo-8.png');
+	background-size: 100%;
+	background-repeat: no-repeat;}
+.bg-geo-9 {
+	background-image: url('../img/geo-9.png');
+	background-size: 100%;
+	background-repeat: no-repeat;}
+.bg-geo-10 {
+	background-image: url('../img/geo-10.png');
+	background-size: 100%;
+	background-repeat: no-repeat;}
+.bg-geo-11 {
+	background-image: url('../img/geo-11.png');
+	background-size: 100%;
+	background-repeat: no-repeat;}
+
+.bg-mns-1 {
+	background-image: url('../img/mns-1.png');
+	background-size: 100%;
+	background-repeat: no-repeat;}
+.bg-mns-2 {
+	background-image: url('../img/mns-2.png');
+	background-size: 100%;
+	background-repeat: no-repeat;}
+.bg-mns-3 {
+	background-image: url('../img/mns-3.png');
+	background-size: 100%;
+	background-repeat: no-repeat;}
+.bg-mns-4 {
+	background-image: url('../img/mns-4.png');
 	background-size: 100%;
 	background-repeat: no-repeat;}
 
 .bg-gim-1 {
-		background-image: url('../img/bg-gim-1.png');
-		background-size: 100%;
-		background-repeat: no-repeat;}
+	background-image: url('../img/gim-1.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;}
+.bg-gim-2 {
+	background-image: url('../img/gim-2.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;}
+.bg-gim-3 {
+	background-image: url('../img/gim-3.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;}
 
 .bg-ani-1 {
-			background-image: url('../img/bg-ani-1.png');
-			background-size: 100%;
-			background-repeat: no-repeat;}
+	background-image: url('../img/ani-1.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;}
+.bg-ani-2 {
+	background-image: url('../img/ani-2.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;}
+.bg-ani-3 {
+	background-image: url('../img/ani-3.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;}
+
+.bg-tex-1 {
+background-image: url('../img/tex-1.png');
+background-size: 100%;
+background-repeat: no-repeat;}
+.bg-tex-2 {
+background-image: url('../img/tex-2.png');
+background-size: 100%;
+background-repeat: no-repeat;}
+.bg-tex-3 {
+background-image: url('../img/tex-3.png');
+background-size: 100%;
+background-repeat: no-repeat;}
+
+
