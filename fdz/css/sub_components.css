@@ -62,4 +62,13 @@
 }
 .show-2:target {
     display: block;
+.show-1 {
+    display: none;
+    }
+}
+.show-3 {
+    display: none;
+}
+.show-3:target {
+    display: block;
 }
