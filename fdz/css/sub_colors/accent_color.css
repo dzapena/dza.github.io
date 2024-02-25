@@ -1,0 +1,366 @@
+/* Accent Color */
+
+/* NOT IMPORTANT*/
+/* Merah */
+.ac-t{accent-color: transparent}
+
+.ac-rd{accent-color: #FF0000}
+.ac-rd-blood{accent-color: #8B0000}
+.ac-rd-maroon{accent-color: #800000}
+.ac-rd-pink{accent-color: #FFC0CB}
+.ac-rd-tomato{accent-color: #FF6347}
+.ac-rd-rust{accent-color: #B7410E}
+.ac-rd-crimson{accent-color: #DC143C}
+.ac-rd-firebrick{accent-color: #B22222}
+.ac-rd-indianred{accent-color: #CD5C5C}
+.ac-rd-lightcoral{accent-color: #F08080}
+
+/* Jingga */
+.ac-oe{accent-color: #FFA500}
+.ac-oe-burnt{accent-color: #FF4500}
+.ac-oe-salmon{accent-color: #FF8C00}
+.ac-oe-apricot{accent-color: #FFB900}
+.ac-oe-carrot{accent-color: #FF6600}
+.ac-oe-tangerine{accent-color: #FF9933}
+.ac-oe-amber{accent-color: #FFBF00}
+.ac-oe-darkorange{accent-color: #FF8C00}
+.ac-oe-orangepeel{accent-color: #FFA000}
+.ac-oe-burntsienna{accent-color: #EA7E5D}
+
+/* Kuning */
+.ac-yw{accent-color: #FFFF00}
+.ac-yw-banana{accent-color: #F0E68C}
+.ac-yw-lemon{accent-color: #FFF700}
+.ac-yw-gold{accent-color: #FFD700}
+.ac-yw-mustard{accent-color: #FFDB58}
+.ac-yw-sunflower{accent-color: #E4C600}
+.ac-yw-yellowgreen{accent-color: #ADFF2F}
+.ac-yw-chartreuse{accent-color: #7FFF00}
+.ac-yw-lawngreen{accent-color: #7CFC00}
+.ac-yw-limegreen{accent-color: #32CD32}
+
+/* Hijau */
+.ac-gn{accent-color: #00FF00}
+.ac-gn-leaf{accent-color: #008000}
+.ac-gn-emerald{accent-color: #006400}
+.ac-gn-lime{accent-color: #7FFF00}
+.ac-gn-forest{accent-color: #228B22}
+.ac-gn-mint{accent-color: #3EB489}
+.ac-gn-seagreen{accent-color: #2E8B57}
+.ac-gn-springgreen{accent-color: #00FF7F}
+.ac-gn-mediumseagreen{accent-color: #3CB371}
+.ac-gn-darkgreen{accent-color: #006400}
+
+/* Biru */
+.ac-be{accent-color: #0000FF}
+.ac-be-sky{accent-color: #00BFFF}
+.ac-be-sea{accent-color: #000080}
+.ac-be-royal{accent-color: #4169E1}
+.ac-be-navy{accent-color: #000080}
+.ac-be-teal{accent-color: #008080}
+.ac-be-cyan{accent-color: #00FFFF}
+.ac-be-aquamarine{accent-color: #7FFFD4}
+.ac-be-lightseagreen{accent-color: #20B2AA}
+.ac-be-paleturquoise{accent-color: #AFEEEE}
+
+/* Indigo */
+.ac-io{accent-color: #4B0082}
+.ac-io-dark{accent-color: #32174D}
+.ac-io-electric{accent-color: #6600FF}
+.ac-io-plum{accent-color: #8A2BE2}
+.ac-io-denim{accent-color: #4F6377}
+.ac-io-slate{accent-color: #708090}
+.ac-io-indigo{accent-color: #4B0082}
+.ac-io-darkslateblue{accent-color: #483D8B}
+.ac-io-mediumslateblue{accent-color: #7B68EE}
+.ac-io-slateblue{accent-color: #6A5ACD}
+
+/* Ungu */
+.ac-vt{accent-color: #800080}
+.ac-vt-dark{accent-color: #4B0082}
+.ac-vt-lavender{accent-color: #E6E6FA}
+.ac-vt-wine{accent-color: #663399}
+.ac-vt-lilac{accent-color: #C8A2C8}
+.ac-vt-plum{accent-color: #8E4585}
+.ac-vt-purple{accent-color: #800080}
+.ac-vt-mediumpurple{accent-color: #9370DB}
+.ac-vt-thistle{accent-color: #D8BFD8}
+.ac-vt-orchid{accent-color: #DA70D6}
+
+/* Merah Muda */
+.ac-pk{accent-color: #FFC0CB}
+.ac-pk-hot{accent-color: #FF69B4}
+.ac-pk-baby{accent-color: #FFC0CB}
+.ac-pk-salmon{accent-color: #FF8C69}
+.ac-pk-coral{accent-color: #FF7F50}
+.ac-pk-rose{accent-color: #FFC0CB}
+.ac-pk-pink{accent-color: #FFC0CB}
+.ac-pk-deeppink{accent-color: #FF1493}
+.ac-pk-hotpink{accent-color: #FF69B4}
+.ac-pk-mediumvioletred{accent-color: #C71585}
+
+/* Coklat */
+.ac-bn{accent-color: #A52A2A}
+.ac-bn-wood{accent-color: #804000}
+.ac-bn-coffee{accent-color: #4B3621}
+.ac-bn-caramel{accent-color: #D2691E}
+.ac-bn-chocolate{accent-color: #7B3F00}
+.ac-bn-tan{accent-color: #D2B48C}
+.ac-bn-brown{accent-color: #A52A2A}
+.ac-bn-saddlebrown{accent-color: #8B4513}
+.ac-bn-sandybrown{accent-color: #F4A460}
+.ac-bn-peru{accent-color: #CD853F}
+
+/* Hitam */
+.ac-bk{accent-color: #000000}
+.ac-bk-charcoal{accent-color: #000000}
+.ac-bk-graphite{accent-color: #2F4F4F}
+.ac-bk-jet{accent-color: #1C1C1C}
+.ac-bk-onyx{accent-color: #333333}
+.ac-bk-slate{accent-color: #708090}
+.ac-bk-black{accent-color: #000000}
+.ac-bk-dimgray{accent-color: #696969}
+.ac-bk-gray{accent-color: #808080}
+.ac-bk-darkgray{accent-color: #A9A9A9}
+
+/* Putih */
+.ac-we{accent-color: #FFFFFF}
+.ac-we-snow{accent-color: #FFFAFA}
+.ac-we-cream{accent-color: #F5F5DC}
+.ac-we-ivory{accent-color: #FFFFF0}
+.ac-we-eggshell{accent-color: #F0EAD6}
+.ac-we-linen{accent-color: #FAF0E6}
+.ac-we-white{accent-color: #FFFFFF}
+.ac-we-whitesmoke{accent-color: #F5F5F5}
+.ac-we-gainsboro{accent-color: #DCDCDC}
+.ac-we-lightgray{accent-color: #D3D3D3}
+
+/* Abu-abu */
+.ac-gy{accent-color: #808080}
+.ac-gy-silver{accent-color: #C0C0C0}
+.ac-gy-gray{accent-color: #808080}
+.ac-gy-darkgray{accent-color: #A9A9A9}
+.ac-gy-dimgray{accent-color: #696969}
+.ac-gy-lightslategray{accent-color: #778899}
+.ac-gy-slategray{accent-color: #708090}
+.ac-gy-steelblue{accent-color: #4682B4}
+.ac-gy-lightsteelblue{accent-color: #B0C4DE}
+.ac-gy-navyblue{accent-color: #000080}
+
+/* Emas */
+.ac-gd{accent-color: #FFD700}
+.ac-gd-yellowgold{accent-color: #FFD700}
+.ac-gd-gold{accent-color: #FFD700}
+.ac-gd-deepgold{accent-color: #FFC125}
+.ac-gd-goldenrod{accent-color: #DAA520}
+.ac-gd-darkgoldenrod{accent-color: #B8860B}
+.ac-gd-palegoldenrod{accent-color: #EEE8AA}
+.ac-gd-khaki{accent-color: #F0E68C}
+.ac-gd-darkkhaki{accent-color: #BDB76B}
+.ac-gd-olive{accent-color: #808000}
+
+/* Hijau Muda */
+.ac-lg{accent-color: #98FB98}
+.ac-lg-palegreen{accent-color: #98FB98}
+.ac-lg-mintcream{accent-color: #F5FFFA}
+.ac-lg-springgreen{accent-color: #00FF7F}
+.ac-lg-lawngreen{accent-color: #7CFC00}
+.ac-lg-chartreuseyellow{accent-color: #DFFF00}
+.ac-lg-limegreen{accent-color: #32CD32}
+.ac-lg-forestgreen{accent-color: #228B22}
+.ac-lg-greenyellow{accent-color: #ADFF2F}
+.ac-lg-yellowgreen{accent-color: #ADFF2F}
+
+/* Persik */
+.ac-ph{accent-color: #FFE5B4}
+.ac-ph-peachpuff{accent-color: #FFE5B4}
+.ac-ph-navajowhite{accent-color: #FFDEAD}
+.ac-ph-moccasin{accent-color: #FFE4B5}
+.ac-ph-cornsilk{accent-color: #FFF8DC}
+.ac-ph-blanchedalmond{accent-color: #FFEBCD}
+.ac-ph-bisque{accent-color: #FFE4C4}
+.ac-ph-wheat{accent-color: #F5DEB3}
+.ac-ph-tan{accent-color: #D2B48C}
+.ac-ph-sandybrown{accent-color: #F4A460}
+
+/* IMPORTANT */
+
+/* Merah */
+.ac-rd-i{accent-color: #FF0000 !important}
+.ac-rd-blood-i{accent-color: #8B0000 !important}
+.ac-rd-maroon-i{accent-color: #800000 !important}
+.ac-rd-pink-i{accent-color: #FFC0CB !important}
+.ac-rd-tomato-i{accent-color: #FF6347 !important}
+.ac-rd-rust-i{accent-color: #B7410E !important}
+.ac-rd-crimson-i{accent-color: #DC143C !important}
+.ac-rd-firebrick-i{accent-color: #B22222 !important}
+.ac-rd-indianred-i{accent-color: #CD5C5C !important}
+.ac-rd-lightcoral-i{accent-color: #F08080 !important}
+
+/* Jingga */
+.ac-oe-i{accent-color: #FFA500 !important}
+.ac-oe-burnt-i{accent-color: #FF4500 !important}
+.ac-oe-salmon-i{accent-color: #FF8C00 !important}
+.ac-oe-apricot-i{accent-color: #FFB900 !important}
+.ac-oe-carrot-i{accent-color: #FF6600 !important}
+.ac-oe-tangerine-i{accent-color: #FF9933 !important}
+.ac-oe-amber-i{accent-color: #FFBF00 !important}
+.ac-oe-darkorange-i{accent-color: #FF8C00 !important}
+.ac-oe-orangepeel-i{accent-color: #FFA000 !important}
+.ac-oe-burntsienna-i{accent-color: #EA7E5D !important}
+
+/* Kuning */
+.ac-yw-i{accent-color: #FFFF00 !important}
+.ac-yw-banana-i{accent-color: #F0E68C !important}
+.ac-yw-lemon-i{accent-color: #FFF700 !important}
+.ac-yw-gold-i{accent-color: #FFD700 !important}
+.ac-yw-mustard-i{accent-color: #FFDB58 !important}
+.ac-yw-sunflower-i{accent-color: #E4C600 !important}
+.ac-yw-yellowgreen-i{accent-color: #ADFF2F !important}
+.ac-yw-chartreuse-i{accent-color: #7FFF00 !important}
+.ac-yw-lawngreen-i{accent-color: #7CFC00 !important}
+.ac-yw-limegreen-i{accent-color: #32CD32 !important}
+
+/* Hijau */
+.ac-gn-i{accent-color: #00FF00 !important}
+.ac-gn-leaf-i{accent-color: #008000 !important}
+.ac-gn-emerald-i{accent-color: #006400 !important}
+.ac-gn-lime-i{accent-color: #7FFF00 !important}
+.ac-gn-forest-i{accent-color: #228B22 !important}
+.ac-gn-mint-i{accent-color: #3EB489 !important}
+.ac-gn-seagreen-i{accent-color: #2E8B57 !important}
+.ac-gn-springgreen-i{accent-color: #00FF7F !important}
+.ac-gn-mediumseagreen-i{accent-color: #3CB371 !important}
+.ac-gn-darkgreen-i{accent-color: #006400 !important}
+
+/* Biru */
+.ac-be-i{accent-color: #0000FF !important}
+.ac-be-sky-i{accent-color: #00BFFF !important}
+.ac-be-sea-i{accent-color: #000080 !important}
+.ac-be-royal-i{accent-color: #4169E1 !important}
+.ac-be-navy-i{accent-color: #000080 !important}
+.ac-be-teal-i{accent-color: #008080 !important}
+.ac-be-cyan-i{accent-color: #00FFFF !important}
+.ac-be-aquamarine-i{accent-color: #7FFFD4 !important}
+.ac-be-lightseagreen-i{accent-color: #20B2AA !important}
+.ac-be-paleturquoise-i{accent-color: #AFEEEE !important}
+
+/* Indigo */
+.ac-io-i{accent-color: #4B0082 !important}
+.ac-io-dark-i{accent-color: #32174D !important}
+.ac-io-electric-i{accent-color: #6600FF !important}
+.ac-io-plum-i{accent-color: #8A2BE2 !important}
+.ac-io-denim-i{accent-color: #4F6377 !important}
+.ac-io-slate-i{accent-color: #708090 !important}
+.ac-io-indigo-i{accent-color: #4B0082 !important}
+.ac-io-darkslateblue-i{accent-color: #483D8B !important}
+.ac-io-mediumslateblue-i{accent-color: #7B68EE !important}
+.ac-io-slateblue-i{accent-color: #6A5ACD !important}
+
+/* Ungu */
+.ac-vt-i{accent-color: #800080 !important}
+.ac-vt-dark-i{accent-color: #4B0082 !important}
+.ac-vt-lavender-i{accent-color: #E6E6FA !important}
+.ac-vt-wine-i{accent-color: #663399 !important}
+.ac-vt-lilac-i{accent-color: #C8A2C8 !important}
+.ac-vt-plum-i{accent-color: #8E4585 !important}
+.ac-vt-purple-i{accent-color: #800080 !important}
+.ac-vt-mediumpurple-i{accent-color: #9370DB !important}
+.ac-vt-thistle-i{accent-color: #D8BFD8 !important}
+.ac-vt-orchid-i{accent-color: #DA70D6 !important}
+
+/* Merah Muda */
+.ac-pk-i{accent-color: #FFC0CB !important}
+.ac-pk-hot-i{accent-color: #FF69B4 !important}
+.ac-pk-baby-i{accent-color: #FFC0CB !important}
+.ac-pk-salmon-i{accent-color: #FF8C69 !important}
+.ac-pk-coral-i{accent-color: #FF7F50 !important}
+.ac-pk-rose-i{accent-color: #FFC0CB !important}
+.ac-pk-pink-i{accent-color: #FFC0CB !important}
+.ac-pk-deeppink-i{accent-color: #FF1493 !important}
+.ac-pk-hotpink-i{accent-color: #FF69B4 !important}
+.ac-pk-mediumvioletred-i{accent-color: #C71585 !important}
+
+/* Coklat */
+.ac-bn-i{accent-color: #A52A2A !important}
+.ac-bn-wood-i{accent-color: #804000 !important}
+.ac-bn-coffee-i{accent-color: #4B3621 !important}
+.ac-bn-caramel-i{accent-color: #D2691E !important}
+.ac-bn-chocolate-i{accent-color: #7B3F00 !important}
+.ac-bn-tan-i{accent-color: #D2B48C !important}
+.ac-bn-brown-i{accent-color: #A52A2A !important}
+.ac-bn-saddlebrown-i{accent-color: #8B4513 !important}
+.ac-bn-sandybrown-i{accent-color: #F4A460 !important}
+.ac-bn-peru-i{accent-color: #CD853F !important}
+
+/* Hitam */
+.ac-bk-i{accent-color: #000000 !important}
+.ac-bk-charcoal-i{accent-color: #000000 !important}
+.ac-bk-graphite-i{accent-color: #2F4F4F !important}
+.ac-bk-jet-i{accent-color: #1C1C1C !important}
+.ac-bk-onyx-i{accent-color: #333333 !important}
+.ac-bk-slate-i{accent-color: #708090 !important}
+.ac-bk-black-i{accent-color: #000000 !important}
+.ac-bk-dimgray-i{accent-color: #696969 !important}
+.ac-bk-gray-i{accent-color: #808080 !important}
+.ac-bk-darkgray-i{accent-color: #A9A9A9 !important}
+
+/* Putih */
+.ac-we-i{accent-color: #FFFFFF !important}
+.ac-we-snow-i{accent-color: #FFFAFA !important}
+.ac-we-cream-i{accent-color: #F5F5DC !important}
+.ac-we-ivory-i{accent-color: #FFFFF0 !important}
+.ac-we-eggshell-i{accent-color: #F0EAD6 !important}
+.ac-we-linen-i{accent-color: #FAF0E6 !important}
+.ac-we-white-i{accent-color: #FFFFFF !important}
+.ac-we-whitesmoke-i{accent-color: #F5F5F5 !important}
+.ac-we-gainsboro-i{accent-color: #DCDCDC !important}
+.ac-we-lightgray-i{accent-color: #D3D3D3 !important}
+
+/* Abu-abu */
+.ac-gy-i{accent-color: #808080 !important}
+.ac-gy-silver-i{accent-color: #C0C0C0 !important}
+.ac-gy-gray-i{accent-color: #808080 !important}
+.ac-gy-darkgray-i{accent-color: #A9A9A9 !important}
+.ac-gy-dimgray-i{accent-color: #696969 !important}
+.ac-gy-lightslategray-i{accent-color: #778899 !important}
+.ac-gy-slategray-i{accent-color: #708090 !important}
+.ac-gy-steelblue-i{accent-color: #4682B4 !important}
+.ac-gy-lightsteelblue-i{accent-color: #B0C4DE !important}
+.ac-gy-navyblue-i{accent-color: #000080 !important}
+
+/* Emas */
+.ac-gd-i{accent-color: #FFD700 !important}
+.ac-gd-yellowgold-i{accent-color: #FFD700 !important}
+.ac-gd-gold-i{accent-color: #FFD700 !important}
+.ac-gd-deepgold-i{accent-color: #FFC125 !important}
+.ac-gd-goldenrod-i{accent-color: #DAA520 !important}
+.ac-gd-darkgoldenrod-i{accent-color: #B8860B !important}
+.ac-gd-palegoldenrod-i{accent-color: #EEE8AA !important}
+.ac-gd-khaki-i{accent-color: #F0E68C !important}
+.ac-gd-darkkhaki-i{accent-color: #BDB76B !important}
+.ac-gd-olive-i{accent-color: #808000 !important}
+
+/* Hijau Muda */
+.ac-lg-i{accent-color: #98FB98 !important}
+.ac-lg-palegreen-i{accent-color: #98FB98 !important}
+.ac-lg-mintcream-i{accent-color: #F5FFFA !important}
+.ac-lg-springgreen-i{accent-color: #00FF7F !important}
+.ac-lg-lawngreen-i{accent-color: #7CFC00 !important}
+.ac-lg-chartreuseyellow-i{accent-color: #DFFF00 !important}
+.ac-lg-limegreen-i{accent-color: #32CD32 !important}
+.ac-lg-forestgreen-i{accent-color: #228B22 !important}
+.ac-lg-greenyellow-i{accent-color: #ADFF2F !important}
+.ac-lg-yellowgreen-i{accent-color: #ADFF2F !important}
+
+/* Persik */
+.ac-ph-i{accent-color: #FFE5B4 !important}
+.ac-ph-peachpuff-i{accent-color: #FFE5B4 !important}
+.ac-ph-navajowhite-i{accent-color: #FFDEAD !important}
+.ac-ph-moccasin-i{accent-color: #FFE4B5 !important}
+.ac-ph-cornsilk-i{accent-color: #FFF8DC !important}
+.ac-ph-blanchedalmond-i{accent-color: #FFEBCD !important}
+.ac-ph-bisque-i{accent-color: #FFE4C4 !important}
+.ac-ph-wheat-i{accent-color: #F5DEB3 !important}
+.ac-ph-tan-i{accent-color: #D2B48C !important}
+.ac-ph-sandybrown-i{accent-color: #F4A460 !important}

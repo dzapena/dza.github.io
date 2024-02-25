@@ -1,0 +1,374 @@
+/* Background Color */
+
+/* NOT IMPORTANT*/
+/* Merah */
+.bgc-t{background-color: transparent}
+
+.bgc-rd{background-color: #FF0000}
+.bgc-rd-blood{background-color: #8B0000}
+.bgc-rd-maroon{background-color: #800000}
+.bgc-rd-pink{background-color: #FFC0CB}
+.bgc-rd-tomato{background-color: #FF6347}
+.bgc-rd-rust{background-color: #B7410E}
+.bgc-rd-crimson{background-color: #DC143C}
+.bgc-rd-firebrick{background-color: #B22222}
+.bgc-rd-indianred{background-color: #CD5C5C}
+.bgc-rd-lightcoral{background-color: #F08080}
+
+/* Jingga */
+.bgc-oe{background-color: #FFA500}
+.bgc-oe-burnt{background-color: #FF4500}
+.bgc-oe-salmon{background-color: #FF8C00}
+.bgc-oe-apricot{background-color: #FFB900}
+.bgc-oe-carrot{background-color: #FF6600}
+.bgc-oe-tangerine{background-color: #FF9933}
+.bgc-oe-amber{background-color: #FFBF00}
+.bgc-oe-darkorange{background-color: #FF8C00}
+.bgc-oe-orangepeel{background-color: #FFA000}
+.bgc-oe-burntsienna{background-color: #EA7E5D}
+
+/* Kuning */
+.bgc-yw{background-color: #FFFF00}
+.bgc-yw-banana{background-color: #F0E68C}
+.bgc-yw-lemon{background-color: #FFF700}
+.bgc-yw-gold{background-color: #FFD700}
+.bgc-yw-mustard{background-color: #FFDB58}
+.bgc-yw-sunflower{background-color: #E4C600}
+.bgc-yw-yellowgreen{background-color: #ADFF2F}
+.bgc-yw-chartreuse{background-color: #7FFF00}
+.bgc-yw-lawngreen{background-color: #7CFC00}
+.bgc-yw-limegreen{background-color: #32CD32}
+
+/* Hijau */
+.bgc-gn{background-color: #00FF00}
+.bgc-gn-leaf{background-color: #008000}
+.bgc-gn-emerald{background-color: #006400}
+.bgc-gn-lime{background-color: #7FFF00}
+.bgc-gn-forest{background-color: #228B22}
+.bgc-gn-mint{background-color: #3EB489}
+.bgc-gn-seagreen{background-color: #2E8B57}
+.bgc-gn-springgreen{background-color: #00FF7F}
+.bgc-gn-mediumseagreen{background-color: #3CB371}
+.bgc-gn-darkgreen{background-color: #006400}
+
+/* Biru */
+.bgc-be{background-color: #0000FF}
+.bgc-be-sky{background-color: #00BFFF}
+.bgc-be-sea{background-color: #000080}
+.bgc-be-royal{background-color: #4169E1}
+.bgc-be-navy{background-color: #000080}
+.bgc-be-teal{background-color: #008080}
+.bgc-be-cyan{background-color: #00FFFF}
+.bgc-be-aquamarine{background-color: #7FFFD4}
+.bgc-be-lightseagreen{background-color: #20B2AA}
+.bgc-be-paleturquoise{background-color: #AFEEEE}
+
+/* Indigo */
+.bgc-io{background-color: #4B0082}
+.bgc-io-dark{background-color: #32174D}
+.bgc-io-electric{background-color: #6600FF}
+.bgc-io-plum{background-color: #8A2BE2}
+.bgc-io-denim{background-color: #4F6377}
+.bgc-io-slate{background-color: #708090}
+.bgc-io-indigo{background-color: #4B0082}
+.bgc-io-darkslateblue{background-color: #483D8B}
+.bgc-io-mediumslateblue{background-color: #7B68EE}
+.bgc-io-slateblue{background-color: #6A5ACD}
+
+/* Ungu */
+.bgc-vt{background-color: #800080}
+.bgc-vt-dark{background-color: #4B0082}
+.bgc-vt-lavender{background-color: #E6E6FA}
+.bgc-vt-wine{background-color: #663399}
+.bgc-vt-lilac{background-color: #C8A2C8}
+.bgc-vt-plum{background-color: #8E4585}
+.bgc-vt-purple{background-color: #800080}
+.bgc-vt-mediumpurple{background-color: #9370DB}
+.bgc-vt-thistle{background-color: #D8BFD8}
+.bgc-vt-orchid{background-color: #DA70D6}
+
+/* Merah Muda */
+.bgc-pk{background-color: #FFC0CB}
+.bgc-pk-hot{background-color: #FF69B4}
+.bgc-pk-baby{background-color: #FFC0CB}
+.bgc-pk-salmon{background-color: #FF8C69}
+.bgc-pk-coral{background-color: #FF7F50}
+.bgc-pk-rose{background-color: #FFC0CB}
+.bgc-pk-pink{background-color: #FFC0CB}
+.bgc-pk-deeppink{background-color: #FF1493}
+.bgc-pk-hotpink{background-color: #FF69B4}
+.bgc-pk-mediumvioletred{background-color: #C71585}
+
+/* Coklat */
+.bgc-bn{background-color: #A52A2A}
+.bgc-bn-wood{background-color: #804000}
+.bgc-bn-coffee{background-color: #4B3621}
+.bgc-bn-caramel{background-color: #D2691E}
+.bgc-bn-chocolate{background-color: #7B3F00}
+.bgc-bn-tan{background-color: #D2B48C}
+.bgc-bn-brown{background-color: #A52A2A}
+.bgc-bn-saddlebrown{background-color: #8B4513}
+.bgc-bn-sandybrown{background-color: #F4A460}
+.bgc-bn-peru{background-color: #CD853F}
+
+/* Hitam */
+.bgc-bk{background-color: #000000}
+.bgc-bk-charcoal{background-color: #000000}
+.bgc-bk-graphite{background-color: #2F4F4F}
+.bgc-bk-jet{background-color: #1C1C1C}
+.bgc-bk-onyx{background-color: #333333}
+.bgc-bk-slate{background-color: #708090}
+.bgc-bk-black{background-color: #000000}
+.bgc-bk-dimgray{background-color: #696969}
+.bgc-bk-gray{background-color: #808080}
+.bgc-bk-darkgray{background-color: #A9A9A9}
+
+/* Putih */
+.bgc-we{background-color: #FFFFFF}
+.bgc-we-snow{background-color: #FFFAFA}
+.bgc-we-cream{background-color: #F5F5DC}
+.bgc-we-ivory{background-color: #FFFFF0}
+.bgc-we-eggshell{background-color: #F0EAD6}
+.bgc-we-linen{background-color: #FAF0E6}
+.bgc-we-white{background-color: #FFFFFF}
+.bgc-we-whitesmoke{background-color: #F5F5F5}
+.bgc-we-gainsboro{background-color: #DCDCDC}
+.bgc-we-lightgray{background-color: #D3D3D3}
+
+/* Abu-abu */
+.bgc-gy{background-color: #808080}
+.bgc-gy-silver{background-color: #C0C0C0}
+.bgc-gy-gray{background-color: #808080}
+.bgc-gy-darkgray{background-color: #A9A9A9}
+.bgc-gy-dimgray{background-color: #696969}
+.bgc-gy-lightslategray{background-color: #778899}
+.bgc-gy-slategray{background-color: #708090}
+.bgc-gy-steelblue{background-color: #4682B4}
+.bgc-gy-lightsteelblue{background-color: #B0C4DE}
+.bgc-gy-navyblue{background-color: #000080}
+
+/* Emas */
+.bgc-gd{background-color: #FFD700}
+.bgc-gd-yellowgold{background-color: #FFD700}
+.bgc-gd-gold{background-color: #FFD700}
+.bgc-gd-deepgold{background-color: #FFC125}
+.bgc-gd-goldenrod{background-color: #DAA520}
+.bgc-gd-darkgoldenrod{background-color: #B8860B}
+.bgc-gd-palegoldenrod{background-color: #EEE8AA}
+.bgc-gd-khaki{background-color: #F0E68C}
+.bgc-gd-darkkhaki{background-color: #BDB76B}
+.bgc-gd-olive{background-color: #808000}
+
+/* Hijau Muda */
+.bgc-lg{background-color: #98FB98}
+.bgc-lg-palegreen{background-color: #98FB98}
+.bgc-lg-mintcream{background-color: #F5FFFA}
+.bgc-lg-springgreen{background-color: #00FF7F}
+.bgc-lg-lawngreen{background-color: #7CFC00}
+.bgc-lg-chartreuseyellow{background-color: #DFFF00}
+.bgc-lg-limegreen{background-color: #32CD32}
+.bgc-lg-forestgreen{background-color: #228B22}
+.bgc-lg-greenyellow{background-color: #ADFF2F}
+.bgc-lg-yellowgreen{background-color: #ADFF2F}
+
+/* Persik */
+.bgc-ph{background-color: #FFE5B4}
+.bgc-ph-peachpuff{background-color: #FFE5B4}
+.bgc-ph-navajowhite{background-color: #FFDEAD}
+.bgc-ph-moccasin{background-color: #FFE4B5}
+.bgc-ph-cornsilk{background-color: #FFF8DC}
+.bgc-ph-blanchedalmond{background-color: #FFEBCD}
+.bgc-ph-bisque{background-color: #FFE4C4}
+.bgc-ph-wheat{background-color: #F5DEB3}
+.bgc-ph-tan{background-color: #D2B48C}
+.bgc-ph-sandybrown{background-color: #F4A460}
+
+/* IMPORTANT */
+
+/* Merah */
+.bgc-rd-i{background-color: #FF0000 !important}
+.bgc-rd-blood-i{background-color: #8B0000 !important}
+.bgc-rd-maroon-i{background-color: #800000 !important}
+.bgc-rd-pink-i{background-color: #FFC0CB !important}
+.bgc-rd-tomato-i{background-color: #FF6347 !important}
+.bgc-rd-rust-i{background-color: #B7410E !important}
+.bgc-rd-crimson-i{background-color: #DC143C !important}
+.bgc-rd-firebrick-i{background-color: #B22222 !important}
+.bgc-rd-indianred-i{background-color: #CD5C5C !important}
+.bgc-rd-lightcoral-i{background-color: #F08080 !important}
+
+/* Jingga */
+.bgc-oe-i{background-color: #FFA500 !important}
+.bgc-oe-burnt-i{background-color: #FF4500 !important}
+.bgc-oe-salmon-i{background-color: #FF8C00 !important}
+.bgc-oe-apricot-i{background-color: #FFB900 !important}
+.bgc-oe-carrot-i{background-color: #FF6600 !important}
+.bgc-oe-tangerine-i{background-color: #FF9933 !important}
+.bgc-oe-amber-i{background-color: #FFBF00 !important}
+.bgc-oe-darkorange-i{background-color: #FF8C00 !important}
+.bgc-oe-orangepeel-i{background-color: #FFA000 !important}
+.bgc-oe-burntsienna-i{background-color: #EA7E5D !important}
+
+/* Kuning */
+.bgc-yw-i{background-color: #FFFF00 !important}
+.bgc-yw-banana-i{background-color: #F0E68C !important}
+.bgc-yw-lemon-i{background-color: #FFF700 !important}
+.bgc-yw-gold-i{background-color: #FFD700 !important}
+.bgc-yw-mustard-i{background-color: #FFDB58 !important}
+.bgc-yw-sunflower-i{background-color: #E4C600 !important}
+.bgc-yw-yellowgreen-i{background-color: #ADFF2F !important}
+.bgc-yw-chartreuse-i{background-color: #7FFF00 !important}
+.bgc-yw-lawngreen-i{background-color: #7CFC00 !important}
+.bgc-yw-limegreen-i{background-color: #32CD32 !important}
+
+/* Hijau */
+.bgc-gn-i{background-color: #00FF00 !important}
+.bgc-gn-leaf-i{background-color: #008000 !important}
+.bgc-gn-emerald-i{background-color: #006400 !important}
+.bgc-gn-lime-i{background-color: #7FFF00 !important}
+.bgc-gn-forest-i{background-color: #228B22 !important}
+.bgc-gn-mint-i{background-color: #3EB489 !important}
+.bgc-gn-seagreen-i{background-color: #2E8B57 !important}
+.bgc-gn-springgreen-i{background-color: #00FF7F !important}
+.bgc-gn-mediumseagreen-i{background-color: #3CB371 !important}
+.bgc-gn-darkgreen-i{background-color: #006400 !important}
+
+/* Biru */
+.bgc-be-i{background-color: #0000FF !important}
+.bgc-be-sky-i{background-color: #00BFFF !important}
+.bgc-be-sea-i{background-color: #000080 !important}
+.bgc-be-royal-i{background-color: #4169E1 !important}
+.bgc-be-navy-i{background-color: #000080 !important}
+.bgc-be-teal-i{background-color: #008080 !important}
+.bgc-be-cyan-i{background-color: #00FFFF !important}
+.bgc-be-aquamarine-i{background-color: #7FFFD4 !important}
+.bgc-be-lightseagreen-i{background-color: #20B2AA !important}
+.bgc-be-paleturquoise-i{background-color: #AFEEEE !important}
+
+/* Indigo */
+.bgc-io-i{background-color: #4B0082 !important}
+.bgc-io-dark-i{background-color: #32174D !important}
+.bgc-io-electric-i{background-color: #6600FF !important}
+.bgc-io-plum-i{background-color: #8A2BE2 !important}
+.bgc-io-denim-i{background-color: #4F6377 !important}
+.bgc-io-slate-i{background-color: #708090 !important}
+.bgc-io-indigo-i{background-color: #4B0082 !important}
+.bgc-io-darkslateblue-i{background-color: #483D8B !important}
+.bgc-io-mediumslateblue-i{background-color: #7B68EE !important}
+.bgc-io-slateblue-i{background-color: #6A5ACD !important}
+
+/* Ungu */
+.bgc-vt-i{background-color: #800080 !important}
+.bgc-vt-dark-i{background-color: #4B0082 !important}
+.bgc-vt-lavender-i{background-color: #E6E6FA !important}
+.bgc-vt-wine-i{background-color: #663399 !important}
+.bgc-vt-lilac-i{background-color: #C8A2C8 !important}
+.bgc-vt-plum-i{background-color: #8E4585 !important}
+.bgc-vt-purple-i{background-color: #800080 !important}
+.bgc-vt-mediumpurple-i{background-color: #9370DB !important}
+.bgc-vt-thistle-i{background-color: #D8BFD8 !important}
+.bgc-vt-orchid-i{background-color: #DA70D6 !important}
+
+/* Merah Muda */
+.bgc-pk-i{background-color: #FFC0CB !important}
+.bgc-pk-hot-i{background-color: #FF69B4 !important}
+.bgc-pk-baby-i{background-color: #FFC0CB !important}
+.bgc-pk-salmon-i{background-color: #FF8C69 !important}
+.bgc-pk-coral-i{background-color: #FF7F50 !important}
+.bgc-pk-rose-i{background-color: #FFC0CB !important}
+.bgc-pk-pink-i{background-color: #FFC0CB !important}
+.bgc-pk-deeppink-i{background-color: #FF1493 !important}
+.bgc-pk-hotpink-i{background-color: #FF69B4 !important}
+.bgc-pk-mediumvioletred-i{background-color: #C71585 !important}
+
+/* Coklat */
+.bgc-bn-i{background-color: #A52A2A !important}
+.bgc-bn-wood-i{background-color: #804000 !important}
+.bgc-bn-coffee-i{background-color: #4B3621 !important}
+.bgc-bn-caramel-i{background-color: #D2691E !important}
+.bgc-bn-chocolate-i{background-color: #7B3F00 !important}
+.bgc-bn-tan-i{background-color: #D2B48C !important}
+.bgc-bn-brown-i{background-color: #A52A2A !important}
+.bgc-bn-saddlebrown-i{background-color: #8B4513 !important}
+.bgc-bn-sandybrown-i{background-color: #F4A460 !important}
+.bgc-bn-peru-i{background-color: #CD853F !important}
+
+/* Hitam */
+.bgc-bk-i{background-color: #000000 !important}
+.bgc-bk-charcoal-i{background-color: #000000 !important}
+.bgc-bk-graphite-i{background-color: #2F4F4F !important}
+.bgc-bk-jet-i{background-color: #1C1C1C !important}
+.bgc-bk-onyx-i{background-color: #333333 !important}
+.bgc-bk-slate-i{background-color: #708090 !important}
+.bgc-bk-black-i{background-color: #000000 !important}
+.bgc-bk-dimgray-i{background-color: #696969 !important}
+.bgc-bk-gray-i{background-color: #808080 !important}
+.bgc-bk-darkgray-i{background-color: #A9A9A9 !important}
+
+/* Putih */
+.bgc-we-i{background-color: #FFFFFF !important}
+.bgc-we-snow-i{background-color: #FFFAFA !important}
+.bgc-we-cream-i{background-color: #F5F5DC !important}
+.bgc-we-ivory-i{background-color: #FFFFF0 !important}
+.bgc-we-eggshell-i{background-color: #F0EAD6 !important}
+.bgc-we-linen-i{background-color: #FAF0E6 !important}
+.bgc-we-white-i{background-color: #FFFFFF !important}
+.bgc-we-whitesmoke-i{background-color: #F5F5F5 !important}
+.bgc-we-gainsboro-i{background-color: #DCDCDC !important}
+.bgc-we-lightgray-i{background-color: #D3D3D3 !important}
+
+/* Abu-abu */
+.bgc-gy-i{background-color: #808080 !important}
+.bgc-gy-silver-i{background-color: #C0C0C0 !important}
+.bgc-gy-gray-i{background-color: #808080 !important}
+.bgc-gy-darkgray-i{background-color: #A9A9A9 !important}
+.bgc-gy-dimgray-i{background-color: #696969 !important}
+.bgc-gy-lightslategray-i{background-color: #778899 !important}
+.bgc-gy-slategray-i{background-color: #708090 !important}
+.bgc-gy-steelblue-i{background-color: #4682B4 !important}
+.bgc-gy-lightsteelblue-i{background-color: #B0C4DE !important}
+.bgc-gy-navyblue-i{background-color: #000080 !important}
+
+/* Emas */
+.bgc-gd-i{background-color: #FFD700 !important}
+.bgc-gd-yellowgold-i{background-color: #FFD700 !important}
+.bgc-gd-gold-i{background-color: #FFD700 !important}
+.bgc-gd-deepgold-i{background-color: #FFC125 !important}
+.bgc-gd-goldenrod-i{background-color: #DAA520 !important}
+.bgc-gd-darkgoldenrod-i{background-color: #B8860B !important}
+.bgc-gd-palegoldenrod-i{background-color: #EEE8AA !important}
+.bgc-gd-khaki-i{background-color: #F0E68C !important}
+.bgc-gd-darkkhaki-i{background-color: #BDB76B !important}
+.bgc-gd-olive-i{background-color: #808000 !important}
+
+/* Hijau Muda */
+.bgc-lg-i{background-color: #98FB98 !important}
+.bgc-lg-palegreen-i{background-color: #98FB98 !important}
+.bgc-lg-mintcream-i{background-color: #F5FFFA !important}
+.bgc-lg-springgreen-i{background-color: #00FF7F !important}
+.bgc-lg-lawngreen-i{background-color: #7CFC00 !important}
+.bgc-lg-chartreuseyellow-i{background-color: #DFFF00 !important}
+.bgc-lg-limegreen-i{background-color: #32CD32 !important}
+.bgc-lg-forestgreen-i{background-color: #228B22 !important}
+.bgc-lg-greenyellow-i{background-color: #ADFF2F !important}
+.bgc-lg-yellowgreen-i{background-color: #ADFF2F !important}
+
+/* Persik */
+.bgc-ph-i{background-color: #FFE5B4 !important}
+.bgc-ph-peachpuff-i{background-color: #FFE5B4 !important}
+.bgc-ph-navajowhite-i{background-color: #FFDEAD !important}
+.bgc-ph-moccasin-i{background-color: #FFE4B5 !important}
+.bgc-ph-cornsilk-i{background-color: #FFF8DC !important}
+.bgc-ph-blanchedalmond-i{background-color: #FFEBCD !important}
+.bgc-ph-bisque-i{background-color: #FFE4C4 !important}
+.bgc-ph-wheat-i{background-color: #F5DEB3 !important}
+.bgc-ph-tan-i{background-color: #D2B48C !important}
+.bgc-ph-sandybrown-i{background-color: #F4A460 !important}
+
+/* Background Color Alt */
+.bgc-dark {background-color: #151f2c;}
+.bgc-dark-l {background-color: #182433;}
+.bgc-dark-ln {background-color: #263141;}
+.bgc-bg-1 {background: #eee;}
+.bgc-bg-2 {background: #DAE3E7;}
+.bgc-white{background: #fff;}

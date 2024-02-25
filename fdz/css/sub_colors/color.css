@@ -1,0 +1,366 @@
+/* Color */
+
+/* NOT IMPORTANT*/
+/* Merah */
+.c-t{color: transparent}
+
+.c-rd{color: #FF0000}
+.c-rd-blood{color: #8B0000}
+.c-rd-maroon{color: #800000}
+.c-rd-pink{color: #FFC0CB}
+.c-rd-tomato{color: #FF6347}
+.c-rd-rust{color: #B7410E}
+.c-rd-crimson{color: #DC143C}
+.c-rd-firebrick{color: #B22222}
+.c-rd-indianred{color: #CD5C5C}
+.c-rd-lightcoral{color: #F08080}
+
+/* Jingga */
+.c-oe{color: #FFA500}
+.c-oe-burnt{color: #FF4500}
+.c-oe-salmon{color: #FF8C00}
+.c-oe-apricot{color: #FFB900}
+.c-oe-carrot{color: #FF6600}
+.c-oe-tangerine{color: #FF9933}
+.c-oe-amber{color: #FFBF00}
+.c-oe-darkorange{color: #FF8C00}
+.c-oe-orangepeel{color: #FFA000}
+.c-oe-burntsienna{color: #EA7E5D}
+
+/* Kuning */
+.c-yw{color: #FFFF00}
+.c-yw-banana{color: #F0E68C}
+.c-yw-lemon{color: #FFF700}
+.c-yw-gold{color: #FFD700}
+.c-yw-mustard{color: #FFDB58}
+.c-yw-sunflower{color: #E4C600}
+.c-yw-yellowgreen{color: #ADFF2F}
+.c-yw-chartreuse{color: #7FFF00}
+.c-yw-lawngreen{color: #7CFC00}
+.c-yw-limegreen{color: #32CD32}
+
+/* Hijau */
+.c-gn{color: #00FF00}
+.c-gn-leaf{color: #008000}
+.c-gn-emerald{color: #006400}
+.c-gn-lime{color: #7FFF00}
+.c-gn-forest{color: #228B22}
+.c-gn-mint{color: #3EB489}
+.c-gn-seagreen{color: #2E8B57}
+.c-gn-springgreen{color: #00FF7F}
+.c-gn-mediumseagreen{color: #3CB371}
+.c-gn-darkgreen{color: #006400}
+
+/* Biru */
+.c-be{color: #0000FF}
+.c-be-sky{color: #00BFFF}
+.c-be-sea{color: #000080}
+.c-be-royal{color: #4169E1}
+.c-be-navy{color: #000080}
+.c-be-teal{color: #008080}
+.c-be-cyan{color: #00FFFF}
+.c-be-aquamarine{color: #7FFFD4}
+.c-be-lightseagreen{color: #20B2AA}
+.c-be-paleturquoise{color: #AFEEEE}
+
+/* Indigo */
+.c-io{color: #4B0082}
+.c-io-dark{color: #32174D}
+.c-io-electric{color: #6600FF}
+.c-io-plum{color: #8A2BE2}
+.c-io-denim{color: #4F6377}
+.c-io-slate{color: #708090}
+.c-io-indigo{color: #4B0082}
+.c-io-darkslateblue{color: #483D8B}
+.c-io-mediumslateblue{color: #7B68EE}
+.c-io-slateblue{color: #6A5ACD}
+
+/* Ungu */
+.c-vt{color: #800080}
+.c-vt-dark{color: #4B0082}
+.c-vt-lavender{color: #E6E6FA}
+.c-vt-wine{color: #663399}
+.c-vt-lilac{color: #C8A2C8}
+.c-vt-plum{color: #8E4585}
+.c-vt-purple{color: #800080}
+.c-vt-mediumpurple{color: #9370DB}
+.c-vt-thistle{color: #D8BFD8}
+.c-vt-orchid{color: #DA70D6}
+
+/* Merah Muda */
+.c-pk{color: #FFC0CB}
+.c-pk-hot{color: #FF69B4}
+.c-pk-baby{color: #FFC0CB}
+.c-pk-salmon{color: #FF8C69}
+.c-pk-coral{color: #FF7F50}
+.c-pk-rose{color: #FFC0CB}
+.c-pk-pink{color: #FFC0CB}
+.c-pk-deeppink{color: #FF1493}
+.c-pk-hotpink{color: #FF69B4}
+.c-pk-mediumvioletred{color: #C71585}
+
+/* Coklat */
+.c-bn{color: #A52A2A}
+.c-bn-wood{color: #804000}
+.c-bn-coffee{color: #4B3621}
+.c-bn-caramel{color: #D2691E}
+.c-bn-chocolate{color: #7B3F00}
+.c-bn-tan{color: #D2B48C}
+.c-bn-brown{color: #A52A2A}
+.c-bn-saddlebrown{color: #8B4513}
+.c-bn-sandybrown{color: #F4A460}
+.c-bn-peru{color: #CD853F}
+
+/* Hitam */
+.c-bk{color: #000000}
+.c-bk-charcoal{color: #000000}
+.c-bk-graphite{color: #2F4F4F}
+.c-bk-jet{color: #1C1C1C}
+.c-bk-onyx{color: #333333}
+.c-bk-slate{color: #708090}
+.c-bk-black{color: #000000}
+.c-bk-dimgray{color: #696969}
+.c-bk-gray{color: #808080}
+.c-bk-darkgray{color: #A9A9A9}
+
+/* Putih */
+.c-we{color: #FFFFFF}
+.c-we-snow{color: #FFFAFA}
+.c-we-cream{color: #F5F5DC}
+.c-we-ivory{color: #FFFFF0}
+.c-we-eggshell{color: #F0EAD6}
+.c-we-linen{color: #FAF0E6}
+.c-we-white{color: #FFFFFF}
+.c-we-whitesmoke{color: #F5F5F5}
+.c-we-gainsboro{color: #DCDCDC}
+.c-we-lightgray{color: #D3D3D3}
+
+/* Abu-abu */
+.c-gy{color: #808080}
+.c-gy-silver{color: #C0C0C0}
+.c-gy-gray{color: #808080}
+.c-gy-darkgray{color: #A9A9A9}
+.c-gy-dimgray{color: #696969}
+.c-gy-lightslategray{color: #778899}
+.c-gy-slategray{color: #708090}
+.c-gy-steelblue{color: #4682B4}
+.c-gy-lightsteelblue{color: #B0C4DE}
+.c-gy-navyblue{color: #000080}
+
+/* Emas */
+.c-gd{color: #FFD700}
+.c-gd-yellowgold{color: #FFD700}
+.c-gd-gold{color: #FFD700}
+.c-gd-deepgold{color: #FFC125}
+.c-gd-goldenrod{color: #DAA520}
+.c-gd-darkgoldenrod{color: #B8860B}
+.c-gd-palegoldenrod{color: #EEE8AA}
+.c-gd-khaki{color: #F0E68C}
+.c-gd-darkkhaki{color: #BDB76B}
+.c-gd-olive{color: #808000}
+
+/* Hijau Muda */
+.c-lg{color: #98FB98}
+.c-lg-palegreen{color: #98FB98}
+.c-lg-mintcream{color: #F5FFFA}
+.c-lg-springgreen{color: #00FF7F}
+.c-lg-lawngreen{color: #7CFC00}
+.c-lg-chartreuseyellow{color: #DFFF00}
+.c-lg-limegreen{color: #32CD32}
+.c-lg-forestgreen{color: #228B22}
+.c-lg-greenyellow{color: #ADFF2F}
+.c-lg-yellowgreen{color: #ADFF2F}
+
+/* Persik */
+.c-ph{color: #FFE5B4}
+.c-ph-peachpuff{color: #FFE5B4}
+.c-ph-navajowhite{color: #FFDEAD}
+.c-ph-moccasin{color: #FFE4B5}
+.c-ph-cornsilk{color: #FFF8DC}
+.c-ph-blanchedalmond{color: #FFEBCD}
+.c-ph-bisque{color: #FFE4C4}
+.c-ph-wheat{color: #F5DEB3}
+.c-ph-tan{color: #D2B48C}
+.c-ph-sandybrown{color: #F4A460}
+
+/* IMPORTANT */
+
+/* Merah */
+.c-rd-i{color: #FF0000 !important}
+.c-rd-blood-i{color: #8B0000 !important}
+.c-rd-maroon-i{color: #800000 !important}
+.c-rd-pink-i{color: #FFC0CB !important}
+.c-rd-tomato-i{color: #FF6347 !important}
+.c-rd-rust-i{color: #B7410E !important}
+.c-rd-crimson-i{color: #DC143C !important}
+.c-rd-firebrick-i{color: #B22222 !important}
+.c-rd-indianred-i{color: #CD5C5C !important}
+.c-rd-lightcoral-i{color: #F08080 !important}
+
+/* Jingga */
+.c-oe-i{color: #FFA500 !important}
+.c-oe-burnt-i{color: #FF4500 !important}
+.c-oe-salmon-i{color: #FF8C00 !important}
+.c-oe-apricot-i{color: #FFB900 !important}
+.c-oe-carrot-i{color: #FF6600 !important}
+.c-oe-tangerine-i{color: #FF9933 !important}
+.c-oe-amber-i{color: #FFBF00 !important}
+.c-oe-darkorange-i{color: #FF8C00 !important}
+.c-oe-orangepeel-i{color: #FFA000 !important}
+.c-oe-burntsienna-i{color: #EA7E5D !important}
+
+/* Kuning */
+.c-yw-i{color: #FFFF00 !important}
+.c-yw-banana-i{color: #F0E68C !important}
+.c-yw-lemon-i{color: #FFF700 !important}
+.c-yw-gold-i{color: #FFD700 !important}
+.c-yw-mustard-i{color: #FFDB58 !important}
+.c-yw-sunflower-i{color: #E4C600 !important}
+.c-yw-yellowgreen-i{color: #ADFF2F !important}
+.c-yw-chartreuse-i{color: #7FFF00 !important}
+.c-yw-lawngreen-i{color: #7CFC00 !important}
+.c-yw-limegreen-i{color: #32CD32 !important}
+
+/* Hijau */
+.c-gn-i{color: #00FF00 !important}
+.c-gn-leaf-i{color: #008000 !important}
+.c-gn-emerald-i{color: #006400 !important}
+.c-gn-lime-i{color: #7FFF00 !important}
+.c-gn-forest-i{color: #228B22 !important}
+.c-gn-mint-i{color: #3EB489 !important}
+.c-gn-seagreen-i{color: #2E8B57 !important}
+.c-gn-springgreen-i{color: #00FF7F !important}
+.c-gn-mediumseagreen-i{color: #3CB371 !important}
+.c-gn-darkgreen-i{color: #006400 !important}
+
+/* Biru */
+.c-be-i{color: #0000FF !important}
+.c-be-sky-i{color: #00BFFF !important}
+.c-be-sea-i{color: #000080 !important}
+.c-be-royal-i{color: #4169E1 !important}
+.c-be-navy-i{color: #000080 !important}
+.c-be-teal-i{color: #008080 !important}
+.c-be-cyan-i{color: #00FFFF !important}
+.c-be-aquamarine-i{color: #7FFFD4 !important}
+.c-be-lightseagreen-i{color: #20B2AA !important}
+.c-be-paleturquoise-i{color: #AFEEEE !important}
+
+/* Indigo */
+.c-io-i{color: #4B0082 !important}
+.c-io-dark-i{color: #32174D !important}
+.c-io-electric-i{color: #6600FF !important}
+.c-io-plum-i{color: #8A2BE2 !important}
+.c-io-denim-i{color: #4F6377 !important}
+.c-io-slate-i{color: #708090 !important}
+.c-io-indigo-i{color: #4B0082 !important}
+.c-io-darkslateblue-i{color: #483D8B !important}
+.c-io-mediumslateblue-i{color: #7B68EE !important}
+.c-io-slateblue-i{color: #6A5ACD !important}
+
+/* Ungu */
+.c-vt-i{color: #800080 !important}
+.c-vt-dark-i{color: #4B0082 !important}
+.c-vt-lavender-i{color: #E6E6FA !important}
+.c-vt-wine-i{color: #663399 !important}
+.c-vt-lilac-i{color: #C8A2C8 !important}
+.c-vt-plum-i{color: #8E4585 !important}
+.c-vt-purple-i{color: #800080 !important}
+.c-vt-mediumpurple-i{color: #9370DB !important}
+.c-vt-thistle-i{color: #D8BFD8 !important}
+.c-vt-orchid-i{color: #DA70D6 !important}
+
+/* Merah Muda */
+.c-pk-i{color: #FFC0CB !important}
+.c-pk-hot-i{color: #FF69B4 !important}
+.c-pk-baby-i{color: #FFC0CB !important}
+.c-pk-salmon-i{color: #FF8C69 !important}
+.c-pk-coral-i{color: #FF7F50 !important}
+.c-pk-rose-i{color: #FFC0CB !important}
+.c-pk-pink-i{color: #FFC0CB !important}
+.c-pk-deeppink-i{color: #FF1493 !important}
+.c-pk-hotpink-i{color: #FF69B4 !important}
+.c-pk-mediumvioletred-i{color: #C71585 !important}
+
+/* Coklat */
+.c-bn-i{color: #A52A2A !important}
+.c-bn-wood-i{color: #804000 !important}
+.c-bn-coffee-i{color: #4B3621 !important}
+.c-bn-caramel-i{color: #D2691E !important}
+.c-bn-chocolate-i{color: #7B3F00 !important}
+.c-bn-tan-i{color: #D2B48C !important}
+.c-bn-brown-i{color: #A52A2A !important}
+.c-bn-saddlebrown-i{color: #8B4513 !important}
+.c-bn-sandybrown-i{color: #F4A460 !important}
+.c-bn-peru-i{color: #CD853F !important}
+
+/* Hitam */
+.c-bk-i{color: #000000 !important}
+.c-bk-charcoal-i{color: #000000 !important}
+.c-bk-graphite-i{color: #2F4F4F !important}
+.c-bk-jet-i{color: #1C1C1C !important}
+.c-bk-onyx-i{color: #333333 !important}
+.c-bk-slate-i{color: #708090 !important}
+.c-bk-black-i{color: #000000 !important}
+.c-bk-dimgray-i{color: #696969 !important}
+.c-bk-gray-i{color: #808080 !important}
+.c-bk-darkgray-i{color: #A9A9A9 !important}
+
+/* Putih */
+.c-we-i{color: #FFFFFF !important}
+.c-we-snow-i{color: #FFFAFA !important}
+.c-we-cream-i{color: #F5F5DC !important}
+.c-we-ivory-i{color: #FFFFF0 !important}
+.c-we-eggshell-i{color: #F0EAD6 !important}
+.c-we-linen-i{color: #FAF0E6 !important}
+.c-we-white-i{color: #FFFFFF !important}
+.c-we-whitesmoke-i{color: #F5F5F5 !important}
+.c-we-gainsboro-i{color: #DCDCDC !important}
+.c-we-lightgray-i{color: #D3D3D3 !important}
+
+/* Abu-abu */
+.c-gy-i{color: #808080 !important}
+.c-gy-silver-i{color: #C0C0C0 !important}
+.c-gy-gray-i{color: #808080 !important}
+.c-gy-darkgray-i{color: #A9A9A9 !important}
+.c-gy-dimgray-i{color: #696969 !important}
+.c-gy-lightslategray-i{color: #778899 !important}
+.c-gy-slategray-i{color: #708090 !important}
+.c-gy-steelblue-i{color: #4682B4 !important}
+.c-gy-lightsteelblue-i{color: #B0C4DE !important}
+.c-gy-navyblue-i{color: #000080 !important}
+
+/* Emas */
+.c-gd-i{color: #FFD700 !important}
+.c-gd-yellowgold-i{color: #FFD700 !important}
+.c-gd-gold-i{color: #FFD700 !important}
+.c-gd-deepgold-i{color: #FFC125 !important}
+.c-gd-goldenrod-i{color: #DAA520 !important}
+.c-gd-darkgoldenrod-i{color: #B8860B !important}
+.c-gd-palegoldenrod-i{color: #EEE8AA !important}
+.c-gd-khaki-i{color: #F0E68C !important}
+.c-gd-darkkhaki-i{color: #BDB76B !important}
+.c-gd-olive-i{color: #808000 !important}
+
+/* Hijau Muda */
+.c-lg-i{color: #98FB98 !important}
+.c-lg-palegreen-i{color: #98FB98 !important}
+.c-lg-mintcream-i{color: #F5FFFA !important}
+.c-lg-springgreen-i{color: #00FF7F !important}
+.c-lg-lawngreen-i{color: #7CFC00 !important}
+.c-lg-chartreuseyellow-i{color: #DFFF00 !important}
+.c-lg-limegreen-i{color: #32CD32 !important}
+.c-lg-forestgreen-i{color: #228B22 !important}
+.c-lg-greenyellow-i{color: #ADFF2F !important}
+.c-lg-yellowgreen-i{color: #ADFF2F !important}
+
+/* Persik */
+.c-ph-i{color: #FFE5B4 !important}
+.c-ph-peachpuff-i{color: #FFE5B4 !important}
+.c-ph-navajowhite-i{color: #FFDEAD !important}
+.c-ph-moccasin-i{color: #FFE4B5 !important}
+.c-ph-cornsilk-i{color: #FFF8DC !important}
+.c-ph-blanchedalmond-i{color: #FFEBCD !important}
+.c-ph-bisque-i{color: #FFE4C4 !important}
+.c-ph-wheat-i{color: #F5DEB3 !important}
+.c-ph-tan-i{color: #D2B48C !important}
+.c-ph-sandybrown-i{color: #F4A460 !important}

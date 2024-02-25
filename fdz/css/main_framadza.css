@@ -9,6 +9,7 @@
 @import "sub_fonts.css";
 @import "sub_margin.css";
 @import "sub_sizing.css";
+@import "sub_transform.css";
 @import "sub_sizing/768p_sizing.css";
 html {
 	scroll-behavior: smooth;

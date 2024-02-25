@@ -1,0 +1,22 @@
+.anim-lf {opacity: 0; transform: translateX(-100%);animation: targetPos 1s forwards;}
+.anim-rg {opacity: 0; transform: translateX(100%);animation: targetPos 1s forwards;}
+.anim-tp {opacity: 0; transform: translateY(-100%);animation: targetPos 1s forwards;}
+.anim-bt {opacity: 0; transform: translateY(100%);animation: targetPos 1s forwards;}
+
+.anim-lf-2s {opacity: 0; transform: translateX(-100%);animation: targetPos 2s forwards;}
+.anim-rg-2s {opacity: 0; transform: translateX(100%);animation: targetPos 2s forwards;}
+.anim-tp-2s {opacity: 0; transform: translateY(-100%);animation: targetPos 2s forwards;}
+.anim-bt-2s {opacity: 0; transform: translateY(100%);animation: targetPos 2s forwards;}
+
+.anim-lf-3s {opacity: 0; transform: translateX(-100%);animation: targetPos 3s forwards;}
+.anim-rg-3s {opacity: 0; transform: translateX(100%);animation: targetPos 3s forwards;}
+.anim-tp-3s {opacity: 0; transform: translateY(-100%);animation: targetPos 3s forwards;}
+.anim-bt-3s {opacity: 0; transform: translateY(100%);animation: targetPos 3s forwards;}
+/* Keyframe */
+
+@keyframes targetPos {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}

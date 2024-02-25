@@ -8,33 +8,19 @@
 
 
 /* Position */
-.p-lf-0{left:0} 
-.p-rg-0{right:0} 
-.p-tp-0{top:0} 
-.p-bt-0{bottom:0} 
+.pos-lf-0{left:0} 
+.pos-rg-0{right:0} 
+.pos-tp-0{top:0} 
+.pos-bt-0{bottom:0} 
 
 /* Viewport */
-.rv-dek {
-	display: block;
-}
-.rv-mob-fhd {
-	display: none;
-}
-.rv-mob-hdp {
-	display: none;
-}
-.rv-mob-hd {
-	display: none;
-}
-.rv-mob-sdh {
-	display: none;
-}
-.rv-mob-sdm {
-	display: none;
-}
-.rv-mob-sdl {
-	display: none;
-}
+.rv-dek {display: block;}
+.rv-mob-fhd {display: none;}
+.rv-mob-hdp {display: none;}
+.rv-mob-hd {display: none;}
+.rv-mob-sdh {display: none;}
+.rv-mob-sdm {display: none;}
+.rv-mob-sdl {display: none;}
 
 /* Height */
 .ht-a {height: auto;}
